@@ -1,3 +1,5 @@
 # CPF_CNPJ_Validator
 
-This Project has the porpuse to generate and validate CPF or CNPJ
+Este projeto tem como objetivo gerar e validar CPF/CNPJ
+
+Para iniciar o programa basta executar o arquivo "main.rb"
